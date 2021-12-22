@@ -1,4 +1,7 @@
-### Hi there 👋
+### Statistics
+
+![](https://github.com/jacklecroy/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jacklecroy/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **jacklecroy/jacklecroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
